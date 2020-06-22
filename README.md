@@ -1,5 +1,6 @@
 # submitserverglory
 Plays "Here Comes The Money" when all tests pass (https://www.youtube.com/watch?v=HMuYfScGpbE).
+
 QUICK GUIDE BELOW 30 SECONDS TO INSTALL (taken from CNET https://www.cnet.com/how-to/how-to-install-chrome-extensions-manually/)
 
 1. Download the CRX file to your computer for the Chrome extension you want to install.
@@ -11,7 +12,9 @@ QUICK GUIDE BELOW 30 SECONDS TO INSTALL (taken from CNET https://www.cnet.com/ho
 
 # Useful notes
 localStorage.clear()
-  Resets local storage, lets the music activate on a release test you've already looked at.
+ 
+ Resets local storage, lets the music activate on a release test you've already looked at.
   
 alert(window.localStorage.getItem('items'))
-  Lets you look at the list of the visited links that have been stored in local storage
+ 
+ Lets you look at the list of the visited links that have been stored in local storage
