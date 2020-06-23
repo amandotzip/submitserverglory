@@ -18,11 +18,13 @@ To know if it works, go to one of your old tests where you got them all and the 
 All source code is visible once unzipped!
 
 ## How to change the music
-At the top where vars are declared
+Navigate to the unzipped folder that you selected for chrome. Open "content.js", and at the top where vars are declared
 ```
 const URL = "https://www.youtube.com/watch?v=HMuYfScGpbE"
 ```
-Change the contents of the quotes to any youtube link to a song/video you'd like!
+Change the contents of the quotes to any youtube link to a song/video you'd like! (make sure you save those changes) 
+
+Now, RELOAD THE EXTENSION (hit the refresh symbol on it in the manage extensions menu) and that's it!
 
 ## Useful notes for source code
 ### localStorage.clear()
