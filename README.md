@@ -29,7 +29,7 @@ Now, **RELOAD THE EXTENSION** (hit the refresh symbol on it in the manage extens
 ## Useful notes for source code
 ### localStorage.clear()
  
-Resets local storage, lets the music activate on a release test you've already looked at.
+Resets local storage, normally music won't play twice on the same test/page, but this clears the visited list so it can now trigger where it already has before.
   
 ### alert(window.localStorage.getItem('visited'))
  
