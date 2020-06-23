@@ -24,7 +24,7 @@ const URL = "https://www.youtube.com/watch?v=HMuYfScGpbE"
 ```
 Change the contents of the quotes to any youtube link to a song/video you'd like! (make sure you save those changes) 
 
-Now, RELOAD THE EXTENSION (hit the refresh symbol on it in the manage extensions menu) and that's it!
+Now, **RELOAD THE EXTENSION** (hit the refresh symbol on it in the manage extensions menu) and that's it!
 
 ## Useful notes for source code
 ### localStorage.clear()
