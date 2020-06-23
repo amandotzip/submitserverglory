@@ -14,11 +14,11 @@ QUICK GUIDE BELOW 30 SECONDS TO INSTALL (taken from [CNET](https://www.cnet.com/
 
 All source code is visible once unzipped!
 
-# Useful notes
+# Useful notes for source code
 # localStorage.clear()
  
 Resets local storage, lets the music activate on a release test you've already looked at.
   
-# alert(window.localStorage.getItem('items'))
+# alert(window.localStorage.getItem('visited'))
  
 Lets you look at the list of the visited links that have been stored in local storage
