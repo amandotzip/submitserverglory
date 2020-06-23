@@ -11,6 +11,7 @@ var money = false //Result condition on money or being BROKE
 let visitedArray = [] //Stores concattenated strings of links visited
 
 
+
 // Make sure we're on the right wesbite
 if ((location.host.localeCompare("submit.cs.umd.edu") == 0)
    || (location.host.localeCompare("www.gradescope.com") == 0)){
