@@ -1,6 +1,8 @@
 # submitserverglory
+# WORKS ON GRADESCOPE AND SUBMIT SERVER
 Plays ["Here Comes The Money"](https://www.youtube.com/watch?v=HMuYfScGpbE) when all tests pass.
-This only works on the UMD submit server (https://submit.cs.umd.edu/)
+
+To update, please delete the previous version then follow the steps below again! :)
 
 QUICK GUIDE BELOW 30 SECONDS TO INSTALL (taken from [CNET](https://www.cnet.com/how-to/how-to-install-chrome-extensions-manually/))
 
