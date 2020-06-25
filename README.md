@@ -18,7 +18,7 @@ To know if it works, go to one of your old tests where you passed everything and
 All source code is visible once unzipped!
 
 ## How to change the music
-Navigate to the unzipped folder that you selected for chrome. Open "content.js", and at the top where vars are declared
+Navigate to the unzipped folder that you selected for chrome. Open/edit "content.js" with any text editor (notepad does the job), and at the top where vars are declared
 ```
 const URL = "https://www.youtube.com/watch?v=HMuYfScGpbE"
 ```
