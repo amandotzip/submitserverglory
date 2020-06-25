@@ -13,7 +13,7 @@ QUICK GUIDE BELOW 30 SECONDS TO INSTALL (taken from [CNET](https://www.cnet.com/
 4. Locate the ZIP file on your computer and unzip it.
 5. Go back to the chrome://extensions/ page and click the Load unpacked extension button and select the unzipped folder for your extension to install it.
 
-To know if it works, go to one of your old tests where you got them all and the video should play.
+To know if it works, go to one of your old tests where you passed everything and the video should play.
 
 All source code is visible once unzipped!
 
