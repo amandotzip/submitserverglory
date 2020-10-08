@@ -5,6 +5,7 @@ Plays ["Here Comes The Money"](https://www.youtube.com/watch?v=HMuYfScGpbE) musi
 
 **6/30/2020 Fixed all bugs, if acting weird or you saw a window saying "passed" this update will fix!**
 
+## Installation
 To update, please **delete/remove** the previous version then follow the steps below again! :)
 
 QUICK GUIDE BELOW 30 SECONDS TO **INSTALL** (taken from [CNET](https://www.cnet.com/how-to/how-to-install-chrome-extensions-manually/))
