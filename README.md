@@ -7,7 +7,7 @@ Plays ["Here Comes The Money"](https://www.youtube.com/watch?v=HMuYfScGpbE) musi
 
 To update, please **delete/remove** the previous version then follow the steps below again! :)
 
-QUICK GUIDE BELOW 30 SECONDS TO INSTALL (taken from [CNET](https://www.cnet.com/how-to/how-to-install-chrome-extensions-manually/))
+QUICK GUIDE BELOW 30 SECONDS TO **INSTALL** (taken from [CNET](https://www.cnet.com/how-to/how-to-install-chrome-extensions-manually/))
 
 1. Download the CRX file to your computer for the Chrome extension you want to install.
 2. Go to chrome://extensions/ and check the box for Developer mode in the top right.
