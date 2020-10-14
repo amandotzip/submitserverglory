@@ -17,7 +17,7 @@ QUICK GUIDE BELOW 30 SECONDS TO **INSTALL** (taken from [CNET](https://www.cnet.
 5. Go back to the chrome://extensions/ page and click the Load unpacked extension button and select the unzipped folder for your extension to install it.
 
 ## How do I know if it works?
-To know if it works, go to one of your old tests where you passed everything and the video should play.
+To know if it works, go to one of your old or current projects where you passed everything and the video should play.
 
 ## How to change the music
 Navigate to the unzipped folder that you selected for chrome. Open/edit "content.js" with any text editor (notepad does the job), and at the top where vars are declared
