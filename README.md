@@ -1,7 +1,7 @@
 # Submit Server Glory
 ## WORKS ON GRADESCOPE AND SUBMIT SERVER
 Plays ["Here Comes The Money"](https://www.youtube.com/watch?v=HMuYfScGpbE) music when all tests pass.
-[This is what it looks like](https://www.youtube.com/watch?v=djO3hJHWpl4&t=15s).
+[This is what it looks like](https://youtu.be/o6qEdQeRQRk).
 
 **6/30/2020 Fixed all bugs, if acting weird or you saw a window saying "passed" this update will fix!**
 
