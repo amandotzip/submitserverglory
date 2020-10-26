@@ -1,5 +1,5 @@
 # Submit Server Glory
-## WORKS ON GRADESCOPE AND SUBMIT SERVER
+### WORKS ON GRADESCOPE AND SUBMIT SERVER
 Plays ["Here Comes The Money"](https://www.youtube.com/watch?v=HMuYfScGpbE) music when all tests pass.
 [This is what it looks like](https://youtu.be/o6qEdQeRQRk).
 
@@ -16,11 +16,11 @@ QUICK GUIDE BELOW 30 SECONDS TO **INSTALL** (taken from [CNET](https://www.cnet.
 4. Locate the ZIP file on your computer and unzip it.
 5. Go back to the chrome://extensions/ page and click the Load unpacked extension button and select the unzipped folder for your extension to install it.
 
-## How do I know if it works?
+### How do I know if it works?
 To know if it works, go to one of your old or current projects where you passed everything and the video should play.
 
-## How to change the music
-Navigate to the unzipped folder that you selected for chrome. Open/edit "content.js" with any text editor (notepad does the job), and at the top where vars are declared
+### How to change the music
+Navigate to the unzipped folder that you selected for chrome. Open/edit "content.js" with any text editor (notepad does the job), and at the top where variables are declared
 ```
 const URL = "https://www.youtube.com/watch?v=HMuYfScGpbE"
 ```
